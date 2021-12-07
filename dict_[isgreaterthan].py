@@ -34,16 +34,11 @@ def isGreaterThan(dict1,dict2):
         return True
     else:
         return False
-
-    
     
 dict1={'a':1,'b':1}
 dict2={'c':0,'d':0}
 isGreaterThan(dict1,dict2)
-
-
-# In[52]:
-
+.................................................
 
 dict1={'a':1,'b':2, 'c':-10}
 dict2={'a':1,'b':1}
@@ -51,10 +46,4 @@ dict2={'a':1,'b':1}
 #dict2={'c':0}
 x = set(dict1).intersection(set(dict2))
 print(x, type(x))
-
-
-# In[ ]:
-
-
-
 
