@@ -30,7 +30,6 @@ do_arithmetic(5,3,'')
 
 # In[3]:
 
-
 def sum_of_digits(s):
     num = [z for z in s if z.isdigit()]
     word = [z for z in s if not z.isdigit()]
