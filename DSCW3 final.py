@@ -52,14 +52,4 @@ print(add_two_numbers(10, 20))
 function_renamer(code)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
